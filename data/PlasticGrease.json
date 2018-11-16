@@ -1,0 +1,30 @@
+{
+  "title": "镁凯利克塑胶齿轮润滑脂",
+  "title_en": "MP series plastic grease",
+  "head": [
+    {
+      "headValue": "产品名称Product Name",
+      "split": true
+    },
+    {
+      "headValue": "旋扭阻力(g/cm)",
+      "split": true
+    },
+    {
+      "headValue": "使用温度Applied Temperature(℃)",
+      "split": true
+    },
+    {
+      "headValue": "性能概述及应用Description Application",
+      "split": false
+    }
+  ],
+  "data": [
+    [
+      "PC18 PC28 PC38 PC48",
+      "18 13 11 8",
+      "-20-120 -20-120 -20-120 -20-120",
+      "SC系列塑胶齿轮润滑脂为油脂化合物,黏性特强,具有调节转矩的特点。该系列产品专为润滑塑胶齿轮或任何活动配件而设计,可提供黏附能力和阻尼效果。 SC range of planstic gear lubricants are grease like compounds, which have high viscosity and controlled torque characteristics. this range of products has been specially designed for the lubrication of plastic gears or any moving parts requiring a greaselike lubricant with adhesiveness and damping effects."
+    ]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "镁凯利克阻尼脂",
+  "title_en": "MP series damp grease",
+  "head": [
+    {
+      "headValue": "产品名称Product Name",
+      "split": true
+    },
+    {
+      "headValue": "密度Density(g/cm3)",
+      "split": true
+    },
+    {
+      "headValue": "油分离Oil Release(%/wt)",
+      "split": true
+    },
+    {
+      "headValue": "挥发物Volatilization(%/wt)",
+      "split": true
+    },
+    {
+      "headValue": "锥入度NLGI",
+      "split": true
+    },
+    {
+      "headValue": "扭矩Torque(N*CM)",
+      "split": true
+    },
+    {
+      "headValue": "性能概述及应用Description Application",
+      "split": false
+    }
+  ],
+  "data": [
+    [
+      "PVT-3 PVT-6 PVT-9",
+      "0.875 0.910 0.920",
+      "0.00 0.00 0.00",
+      "0.05 0.02 0.02",
+      "230-260 200-230 180-210",
+      "70.7 104.8 200.0",
+      "PPO系列阻尼脂,采用最新的合成碳氢化合物技术,在工件接触面间提供高强度的润滑油膜,以线性方式调整运动,产生有效阻尼。不会干,具终生密封作用。 The principle of PPO series are to provide products which have a high film strength to separate and lubricate contact surfaces, while at the same time resisting motion uniformly so as to regulate and lubricate controlled way. To achiece these two main properties Premier Glide incorporates the latest synthetic hydrocarbon technology. A于影视、CD机、照相机、望远镜和显微镜等精密仪器的微调装置。 Such as video and C.D. player optical instruments, e.g. cameras, binoculars and micre smalla djustments are needed when operation sensitive equipment."
+    ]
+  ]
+}

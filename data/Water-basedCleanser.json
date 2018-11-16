@@ -1,0 +1,63 @@
+{
+  "title": "镁凯利克工业清洗剂",
+  "title_en": "MP Water-based cleanser fluids",
+  "head": [
+    {
+      "headValue": "产品名称Product Name",
+      "split": false
+    },
+    {
+      "headValue": "5%浓度稀释pH 5%dilute pH value",
+      "split": false
+    },
+    {
+      "headValue": "稀释液外观Dilution appearance",
+      "split": false
+    },
+    {
+      "headValue": "比重(H2O=1)Ratio",
+      "split": false
+    },
+    {
+      "headValue": "产品性能简介和合适加工工艺Features",
+      "split": false
+    }
+  ],
+  "data": [
+    [
+      "SPC-10 ",
+      "原液",
+      "无色液体",
+      "0.6-1.1",
+      "适用铝铜及合金的清洗,清洗后表面自然挥发无残余物质。"
+    ],
+    [
+      "SPc-20",
+      "原液",
+      "无色液体",
+      "0.6-1.1",
+      "适用于不锈钢、铸铁的中间工艺和清洗、产品有一定的防锈能力可替代三氯乙烯、四氯乙烯"
+    ],
+    [
+      "SPC-30",
+      "8.0-9.5 ",
+      "清激透明Clear liquid",
+      "1.00-1.08",
+      "高浓缩型清洗剂。具有强除油污能力、低泡,可用于手洗操作。对钢铁材料无锈蚀,对部分的铜铝材料无腐蚀,能快速清除金属表面的油污,最适合对轻度油污加温清洗,使用时维护清洗工作液在50度以上可获得更佳的清洗效果和更低的操作泡沫!维持最低的推荐使用浓度可确保每一批次的清洗效果达到一致!并能对清洗后的铸铁金属部件起到一周左右的户内防锈保护,是清洗铁类金属的清澈透明良好选择!适用于包括超声波、低压喷淋、通过式浸入清洗、批量集中漂洗操作。Low pH, satisfy the special one low alkaline to wash."
+    ],
+    [
+      "SPC-30B",
+      "9.00-11.00",
+      "清激透明Clear liquid",
+      "1.00-1.08",
+      "高浓缩型清洗剂。具有强除油污能力。对钢铁材料无锈蚀,能快速清除金属表面的油污,最适合用于中度油污加温喷淋清洗,有效去除工作上的切削油/液和金属屑,并能对清洗后的铸铁金属部件起到短期户内防锈保护,是清洗铸铁类金属的良好选择,卓越抑泡能力,是中高压清洗的理想清洗剂!使用时维护清洗工作液在50度以上可获得更佳的清洗效果和更低的操作泡沫!维持最低的推荐使用浓度可确保每一批次的清洗效果达到一致!适用于包括超声波、低压喷淋、通过式浸入清洗、批量集中漂洗操作。Water soluble alkaline cleaner, offer rapidly and effective clean ability low foam, can be used in the high pressure wash equipment, provide excellent anti-rust performance to ferrous metal."
+    ],
+    [
+      "SPC-40",
+      "9.00-11.00",
+      "清澈透明Clear liquid",
+      "1.00-1.08",
+      "高浓缩型清洗剂。具有强除油污能力、高压操作低泡。对铝合金料无锈蚀,能快速清除金属表面的油污,最适合对中度油污加温清洗,并对铝材料在清洗过程中起到保护作用不发生腐蚀,适合清洗多种金属材料!在中高压喷淋清洗中表现出卓越抑泡能力是中高压清洗的理想清洗剂!使用时维护清洗工作液在50度以上可获得更佳的清洗效果和更低的操作泡沫!维持最低的推荐使用浓度可确保每一批次的清洗效果达到一致!适用于包括超声波、低压喷淋、通过式浸入清洗、批量集中漂洗操作。Water soluble alkaline cleaner, offer rapidly and effective clean ability low foam, can be used in the high pressure wash equipment, provide excellent anti-rust performance to both ferrous and non ferrous metal."
+    ]
+  ]
+}

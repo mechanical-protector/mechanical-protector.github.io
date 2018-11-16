@@ -1,0 +1,72 @@
+{
+  "title": "镁凯利克纯油性金属加工油",
+  "title_en": "MP Neat metalworking oils series",
+  "head": [
+    {
+      "headValue": "产品名称Product Name",
+      "split": true
+    },
+    {
+      "headValue": "粘度Viscosity at 40°C (mm²/S)",
+      "split": true
+    },
+    {
+      "headValue": "开口闪点Flash point(COC)(°C)",
+      "split": true
+    },
+    {
+      "headValue": "铜片腐蚀Copper Corrosion 100°C,3h",
+      "split": true
+    },
+    {
+      "headValue": "适用材质Applied materials",
+      "split": false
+    },
+    {
+      "headValue": "性能概述及应用Description Application",
+      "split": false
+    }
+  ],
+  "data": [
+    [
+      "CLG10 CLG22",
+      "10 22",
+      "170 200",
+      "1B 1B",
+      "低/中碳钢,铸铁,铝,有色金属low/mediumCarbon steel,cast iron,aluminum andNon-ferrous metals.",
+      "多用途切削油,具有卓越的防腐蚀性能,不含氯、锌。Mu|ti- purpose neat cutting oil, with excellent Corrosion protectionperformance, free of chlorine And zinc适合切削、磨削及珩磨。 Mainly for cutting, grinding and honing"
+    ],
+    [
+      "CLG2015 CLG2022",
+      "15 22",
+      "180 190",
+      "1B 1B",
+      "低/中碳/合金钢,铸铁,铝,有色金属Low/medium carbon/alloy steel,cast iron,aluminum and non-ferrousMetals.",
+      "良好的润滑性能,不含氯。 Good lubricity performance, free of chlorine.主要用于锯、车削、铣削、钻孔、齿轮加工、磨削。 Mainly for sawing turning, milling, drilling, gear cutting and grinding"
+    ],
+    [
+      "CLG3022 CLG3032",
+      "22 32",
+      "195 210",
+      "4C  4C",
+      "低/中碳/合金钢/铸铁,铝low/mediur carbon/alloy steel,cast iron and aluminum。",
+      "优良抗磨及极压性能,不含氯。 Excellent anti-wear and EP performance, free of chlorine.可用于枪钻、深钻、攻丝、镗孔以及齿轮加工等重负荷操作 Mainly for gun-drilling, deep-hole drilling, tapping,boring and gear cutting"
+    ],
+    [
+      "CLG4015 CLG4022 CLG4032",
+      "15 22 32",
+      "180 200 210",
+      "4C 4C 4C",
+      "低/中碳/高合金/不锈钢,铸铁stainless steel and cast iron.low/medium carbon/high alloy/",
+      "优良抗磨及极压性能(优于3000系列),不含氯。Excellent anti-wear and EPperformance(better than300 series), free of chlorine可用于拉削、枪钻、深钻孔、攻丝等超负荷操作。 Mainlyfor some heavy operations like broaching, gun-drilling deep-hole drilling and tapping"
+    ],
+    [
+      "CLG-1 CLG-2",
+      "3.0 2.1",
+      "110 95",
+      "",
+      "低/中碳/合金/不锈钢,铸铁,铝,有色金属low/medium carbon/alloy/stainless steel,cast iron aluminumand non-ferrouis metale",
+      "良好的润滑、极佳的冲刷冷却性能。高纯度、不含芳香烃。 Good lubricity, excellentflashing and cooling pertormance. high purification, free of aromatics Mainly for rubbing and honing it is a typical EDMoil too."
+    ]
+  ]
+}

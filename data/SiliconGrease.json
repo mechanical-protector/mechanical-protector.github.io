@@ -1,0 +1,45 @@
+{
+  "title": "镁凯利克硅脂系列产品",
+  "title_en": "MP series Silicon grease",
+  "head": [
+    {
+      "headValue": "产品名称Product Name",
+      "split": true
+    },
+    {
+      "headValue": "工作温度 Working Temperature(℃)",
+      "split": true
+    },
+    {
+      "headValue": "滴点 Dropping Temperature(℃)",
+      "split": true
+    },
+    {
+      "headValue": "电弧电阻Resistan(s)",
+      "split": true
+    },
+    {
+      "headValue": "锥入度NLGI",
+      "split": true
+    },
+    {
+      "headValue": "体积电阻率Vol Resistance Erate（ohm-cm）",
+      "split": true
+    },
+    {
+      "headValue": "性能概述及应用Description Application",
+      "split": false
+    }
+  ],
+  "data": [
+    [
+      "TBi-2 TBi-4 TBi-6 TBi-8",
+      "-40-205 -40-205 -40-205 -40-205",
+      ">260 >260 >260 >260",
+      "160 160 160 160",
+      "360-390 310-330 260-320 230-280",
+      "",
+      "MF系列白色半透明硅脂产品特别为着重介电强度、排水性及防侵蚀而研制。可抵抗氧化及广泛的化学物并能在极大的温差下维持性能不变。 MF Series products are a range of fine synthetic based materials each formulated withspecially selected inert silica thickeners to enhance their physical andchemical properties. Tackyand viscous pastes, the MF series are characterised by an exceptionally high dielectric strength, waterrepellancy and corrosion protection"
+    ]
+  ]
+}

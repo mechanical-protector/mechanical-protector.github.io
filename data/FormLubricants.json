@@ -1,0 +1,70 @@
+{
+  "title": "镁凯利克金属成型加工油",
+  "title_en": "MP Metal form Lubricants series",
+  "head": [
+    {
+      "headValue": "产品名称Product Name",
+      "split": true
+    },
+    {
+      "headValue": "粘度 Viscosity at 40℃(mm²/S)",
+      "split": true
+    },
+    {
+      "headValue": "闪点 Flash point",
+      "split": true
+    },
+    {
+      "headValue": "适用材质 Applied materials",
+      "split": false
+    },
+    {
+      "headValue": "性能概述及应用Description Application",
+      "split": false
+    }
+  ],
+  "data": [
+    [
+      "ES-10",
+      "1.15",
+      "48",
+      "铝片,硅钢片,镀锌薄板 stainless stee non-ferrous metals, Silicon Steel",
+      "特为薄片金属的闱剪及碾轧而研制,加工后能快速挥发干净,在大多的后加工工序中也不用清洗。 Only leaving an extremel light protecting film on the metals parts, which need not to be cleaned at most of the subsequent handing"
+    ],
+    [
+      "ES-20",
+      "2.10",
+      "80",
+      "低/中碳钢,铝,有色金属 low/medium carbon steel, aluminum, non-ferrous metals",
+      "挥发速度快,无气味,不含任何有害物质,不含硫、氯、硅。Hjgh evaporating speed, without odor, without any injuant, free of sulfur, chlorine and silicone主要用于空调器中铝散热片的冲裁、钢管的弯管和涨管工艺。也用于相应的计算机和电子元件的冲压,特别适用于象硅钢类易腐蚀材料。 Mainly forstamping air- conditionradiator,blending steel tube. Also for stamping computer and electric part,especially for silicone steel"
+    ],
+    [
+      "ES-30 ES-30B",
+      "1.8 2.50",
+      "50 70",
+      "中碳合金不锈钢,铝,有色金属,硅钢片等 medium carbon/ alloyed/ stainless steel,non-ferrous mesas, Silicon Steel.",
+      "低粘度快干式冲压、拉伸用油。具有较高的极压性能和较快的挥发速度。 Low viscosity, fast-evaporating stamping and punching oil. it has a high EP perform ance and quick volatilization speed主要用于硅钢片等微型电机定子、转子的冲裁,也可用于镀锌薄板的冲裁加工。Mainly for silicon steel as stamping of minisize electric engine stator and rotor, also for stamping of thin galvanized sheet ngine"
+    ],
+    [
+      "ES-40 ES-40B",
+      "40 110",
+      "218 300",
+      "中碳高合金/不锈钢,有色金属mediumcarbon/high alloy/stainless,steelnon-ferrous mesas",
+      "高极压性能,对铜不产生腐蚀。Hight EP performance, no corrosion to copper.用于钢板的冲压成型V41用于厚度小于10mm板材,V40用于厚度小于2mm板材。 Mainly for steel pressing or forming operations V41 suitable for platethichness less than 10mm, V40 is suitabl for plate thickness less than 2mm"
+    ],
+    [
+      "ES-50",
+      "100",
+      "220",
+      "低中碳合金钢,有色金属,low/ medium, carbon/alloyed steel, non-ferrous metals",
+      "良好的润滑、极压性能。 Good lubricity and EP perfo rmance 主要用于型材拉拔及板材的冲压、等成型加工。 Mainly for drawing and pressing of plate"
+    ],
+    [
+      "ES-60",
+      "600",
+      "230",
+      "中高碳合金钢。有色金属, low/medium,carbon/alloyed steel, non-ferrous metals",
+      "良好的润滑、极压性能。 Good lubricity and EP pertormance主要用于型材拉拔及板材的冲压、拉伸等成型加工。 Mainly for drawing and pressing of plate"
+    ]
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "镁凯利克水溶性加工液",
+  "title_en": "MP Water soluble processing fluid",
+  "head": [
+    {
+      "headValue": "产品名称Product Name",
+      "split": false
+    },
+    {
+      "headValue": "PH值 PH Value(10%)",
+      "split": false
+    },
+    {
+      "headValue": "乳液类型Emulsion Type",
+      "split": false
+    },
+    {
+      "headValue": "防锈性能Anti-rust Property (5%)",
+      "split": false
+    },
+    {
+      "headValue": "适用材质Applied materials",
+      "split": false
+    },
+    {
+      "headValue": "性能概述及应用 Description&Application",
+      "split": false
+    }
+  ],
+  "data": [
+    [
+      "SC-220",
+      "8.8",
+      "乳化液Emulsion",
+      "0-0",
+      "不锈钢,黑色金属,合金钢,铝合金low/medium carbon steel,castiron,Copper,aluminum alloy,",
+      "良好的消潜及防锈能力,乳化液稳定。This ennancing the cutting performance.The emulsion is very stable and offeringprolonged service life."
+    ],
+    [
+      "SC-230",
+      "8.8",
+      "乳化液Emulsion",
+      "0-0",
+      "低/中碳钢,斜铁,铜材,铝合金low/medium carbon steel,castiron,Copper,aluminum alloy,",
+      "良好的润滑性能,不含亚胺。 Good lubricity,free of imine.主要用于车削、铣削、钻孔、镗孔及磨削,尤其适用于铝合金加工。Mainly for turning,milling,drilling,boring and grinding,particularly for aluminum alloy"
+    ],
+    [
+      "SC-ES 260",
+      "8.8",
+      "乳化液",
+      "0-0",
+      "低/中碳钢,铸铁,有色金属low/medium-carbon steel,castiron,non-ferrous metals",
+      "生物稳定型乳化液,与不同硬度的水混合形成长寿命、高防锈性、极佳的清净性和生物稳定性的乳化液。Biostable,it shows long life,highcorrosion protection,excellent wetting andbiostable after blended blent with differenthardness water.用于高难度的车削、磨削、铣削等黑色金属加工。 Recommendfor turning,grindingmilling,etc.particularly forcast iron grinding."
+    ],
+    [
+      "SC-EP 270",
+      "8.8",
+      "微乳液Emulsion",
+      "0-0",
+      "黑色金属,不锈钢,耐热合金,铝合金low/medium carbon steel,castiron,Copper,aluminum alloy,",
+      "提供良好的表面光洁度,降低刀具损耗,并能为有色金属提供非常好的抗氧化保护,其特别的体系确保在硬水环境中仍能长期有效工作.The special formulation ensure the long life in hard water conditions."
+    ],
+    [
+      "SC-EP 280",
+      "8.8",
+      "半合成Semi-synthetic",
+      "0-0",
+      "低/中碱/合金/不锈钢,铝,有色金属.Low/medium carbon/alloyed/，stainless steel,aluminum,non-ferrousmetals",
+      "生物稳定型半合成乳液,极佳的润滑性能,不含氯、苯酚及亚硝酸盐。 Biostable semi-syntheticcuttingfluid,Excellent lubricity,free of chlorine,phenol and nitrite.主要用于车削、钻孔及其难度较大的加工工艺。 Mainly for turning,drillingand other difficult operations.尤其适用于铝、铜等有色金属。 Particularly for aluminum andCopper alloy."
+    ],
+    [
+      "SC-EP 290",
+      "8.8",
+      "半合成Semi-synthetic fluid",
+      "0-0",
+      "不锈钢,铸铁等黑色金属lloyed steel,cast iron metals",
+      "生物稳定型极压、半合成乳液,Biostable semi-synthetic cutting fluid EP and biostable type emulsion.主要用于铸铁等黑色金属的机械加工如切削、磨削、钻孔等。 防锈性能极佳。 Mainlyfor cast iron metalworking,AsCutting,Grinding、drilling.Excellent rust Preventive."
+    ],
+    [
+      "SC-EP 320",
+      "8.8",
+      "全合成型Synthetic fluid fluid",
+      "0-0",
+      "钢,铸铁,粉末冶金钢,特别适用于磁性材料的加工steel,castiron,powder metallurgy steel,specially apply Magnitic material",
+      "生物稳定型全合成加工液,高清净性和防锈性。Biostable synthetic metalworking Fluid,High Flushing and corrosion protection performance.用于磨削及珩磨加工。Mainly for grinding andHoning"
+    ],
+    [
+      "SC-EP 360",
+      "8.8",
+      "全合成型Synthetic fluid",
+      "0-0",
+      "碳钢/铸铁/合金钢/不锈钢/铝合金carbon steel/cast iron/alloyed/steel/stainless steel/aluminumalloy",
+      "极佳的润滑及减磨性能的合成液,不含氯、苯酚及亚硝酸盐。Excellent lubricity and anti-wearPerformance synthetic fluid,free of chlorine,Phenol and nitrite.用于一般切削、铰孔、钻孔、磨削及珩磨等。 Mainly for cutting,reaming,Drilling,grinding and honingal for high strength materials.削加工。 It can also be used as cutting materition performance,有效减少模具损伤及减少工件报废率,Effectively reduce mold damage and reduce scrap rate,亦可用作高强度材料的切"
+    ],
+    [
+      "ES-EP60B",
+      "8.8",
+      "挤压型乳化液 Extrusion type emulsion",
+      "0-0",
+      "铸铁、碳钢、不锈钢、亦可使用于铝合金加工。Cast iron,carbon steel,stainless,steel,also for aluminum alloy",
+      "用于一般钢材及有色金属的折弯及拉伸,Usedfor bending and stretching of general steel and non-ferrous metals,具有良好的润滑性及散热性能,It has good lubricity and heat dissipa"
+    ]
+  ]
+}

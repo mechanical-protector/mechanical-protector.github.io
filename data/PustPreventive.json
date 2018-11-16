@@ -1,0 +1,80 @@
+{
+  "title": "镁凯利克防锈油",
+  "title_en": "Mp series Pust Preventive lube oil",
+  "head": [
+    {
+      "headValue": "产品名称Product Name",
+      "split": false
+    },
+    {
+      "headValue": "运动粘度,40℃Viscosity",
+      "split": false
+    },
+    {
+      "headValue": "开口闪点℃Critical temperature",
+      "split": false
+    },
+    {
+      "headValue": "产品外观apperance",
+      "split": false
+    },
+    {
+      "headValue": "防护周期(户内)Protection period",
+      "split": false
+    },
+    {
+      "headValue": "产品性能简介和合适加工工艺Features",
+      "split": false
+    }
+  ],
+  "data": [
+    [
+      "SP-10",
+      "1mm/s-2.5mm/s",
+      ">45℃",
+      "琥珀色，透明液体amber and clear liquid",
+      "3个月",
+      "溶剂型快干防锈油。不含钡,能迅速在金属表面留下极薄防护膜效抵御外界的腐蚀。经该产品进行防锈处理后的45号标准钢片能够利通过24小时的盐雾测试!经处理的金属部件表面几乎无油渍,不响外观,能确保户内存放半年以上的防锈期,本品闪点低须注意防安全。采用整体浸泡时应定期排净防锈油槽底部水,不同的金属不混合堆放,存放空间应保持干燥!可采用喷涂、浸泡、刷涂方式进防锈处理(防锈处理前最好对零件进行除污清洗并干燥处理)Can pass 24 hours Salt fog testing, provide more than half year indoor corrosion inhibition on steel and cast iron parts."
+    ],
+    [
+      "SP-20",
+      "1mm/s-2.5mm/s",
+      ">45℃",
+      "琥珀色，透明液体amber and clear liquid",
+      "12个月",
+      "溶剂型快干防锈油。不含钡,能迅速置换金属零件表面的水分,并在金属表面留下极薄的防护膜,有效抵御外界的腐蚀。经该产品进行防锈处理后的45号标准钢片能够顺利通过36小时的盐雾测试!经处理后的金属部件表面几乎无油渍,不影响外观确保户内存放一年以上的防锈期,本品闪点低须注意防火安全。采用整体浸泡时应定期排净防锈油槽底部置换水,不同的金属不要混合堆放,存放空间应保持干燥!可采用喷涂、浸泡、刷涂方式进行防锈处理(防锈处理前最好对零件进行除污清洗井干燥处理Can pass 36 hours Salt fog testing, have a replacement function tothe water leaving on the surface of metal, provide more than half year indoor corrosion inhibition on steel and cast iron parts"
+    ],
+    [
+      "SP-30",
+      "1mm/s-2.5mm/s",
+      ">45℃",
+      "琥珀色，透明液体amber and clear liquid",
+      "24个月",
+      "溶剂型快干防锈油。不含钡,能迅速在金属表面留下极薄防护膜,有效抵御外界的腐蚀。经该产品进行防锈处理后的45号标准钢片能够顺利通过48小时的盐雾测试!经处理的金属部件表面几乎无油渍,不影响外观,能确保户内存放一年以上的防锈期,本品闪点低须注意防火sP-30安全。采用整体浸泡时应定期排净防锈油槽底部水,不同的金属不要混合堆放,存放空间应保持干燥!可采用喷涂、浸泡、刷涂方式进行防锈处理(防锈处理前最好对零件进行除污清洗并干燥处理)Can pass 48 hours Salt fog testing, provide more than half year iindoor corrosion inhibition on steel and cast iron parts"
+    ],
+    [
+      "SP-40",
+      "1mm/s-2.5mm/s",
+      ">45℃",
+      "琥珀色，透明液体amber and clear liquid",
+      "12个月",
+      "膜防锈油。不含钡,粘度较高可在金属表面留下油膜保护,有效抵外界腐蚀。经该产品进行防锈处理后的45号标准钢片能够顺利通过8小时的盐雾测试!适合黑色金属的长期封存。采用整体浸泡时应定排净防锈油槽底部置换水、不同的金属不要混合堆放,存放空间应保持干燥!可采用喷涂、浸泡、刷涂方式进行防锈处理(防锈处理前最好对零件进行除污清洗并干燥处理Can pass 48 hours Salt fog testing oil membrane product, no volatility. Always used in sealing up for keeping process"
+    ],
+    [
+      "SP-50",
+      "1mm/s-2.5mm/s",
+      ">45℃",
+      "琥珀色，透明液体amber and clear liquid",
+      "24个月",
+      "油膜防锈油。并在金属表面留下防护膜,有效抵御外界腐蚀。经该产品进行防锈处理后的45号标准钢片能够顺利通过48小时的盐雾测试!处理后金属零件表面几乎无油渍不影响外观,能确保户内存放一年以排净防锈油槽底部水,不同的金属不要混合堆放,存放空间应保持干燥!可采用喷涂、浸泡、刷涂方式进行防锈处理(防锈处理前最好对零件进行除污清洗并干燥处理)Inhibits surface oxidation on brass, Copper alloy and aluminum provide a short-term indoor corrosion inhibition"
+    ],
+    [
+      "SP-60",
+      "1mm/s-2.5mm/s",
+      "不适用",
+      "浅色透明液体light-color and clear liquid",
+      "3个月",
+      "水基型防锈剂。不含钡,亚硝酸盐、苯酚。可根据防锈期长短来调节兑水稀释比率至理想效果,推荐稀释1:19(5%)至1:4(20%)提供黑色金属的短期户内和工序间防锈,使用后可在金属表面留下极薄的、透明水溶性保护膜,并易于用水性清洗剂去除,本品在多数情况下可添加至金属加工液中提高对黑色金属的防锈效果!使用本品应定期检测浓度已达到最佳效果,不同金要混合堆放,存放空间应保持干燥!推荐采用漫泡方式进行防锈处理,晾干后堆放或包装。Provide a short-term indoor corrosion inhibition on steel and cast water soluble liquid, like metal working fluid, cleaner ect"
+    ]
+  ]
+}

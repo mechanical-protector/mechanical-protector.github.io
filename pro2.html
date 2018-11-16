@@ -22,7 +22,63 @@
 	<script src="http://apps.bdimg.com/libs/respond.js/1.4.2/respond.min.js"></script>
 	<script type="text/javascript" src="js/selectivizr.js" ></script>
 	<![endif]-->
-
+	<style type="text/css">
+	.pro ul {
+	margin-top: 5px;
+	}
+	.pro ul li {
+	width: 23.739%;
+	border-radius: 0 0 60px 0;
+	overflow: hidden;
+	margin: 1px 1.68% 0 0;
+	float: left;
+	}
+	.pro ul li .pic {
+	width: 100%;
+	}
+	.pro ul li .pic img {
+	transition: 0.3s;
+	}
+	.pro ul li .pic:after {
+	padding-bottom: 113.4%;
+	}
+	.pro ul li .pic .probg {
+	width: 89.371%;
+	height: 88.03%;
+	border-left: 1px solid #fff;
+	border-top: 1px solid #fff;
+	position: absolute;
+	top: 12px;
+	left: 8px;
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+	}
+	.pro ul li .protxt {
+	width: 100%;
+	background: #a7a7a7;
+	padding: 18px 0 10px 18px;
+	transition: 0.3s;
+	}
+	.pro ul li .protxt a {
+	color: #fff;
+	font-weight: bold;
+	font-size: 16px;
+	}
+	.pro ul li .protxt p {
+	font-size: 12px;
+	color: #d6d6d6;
+	line-height: 25px;
+	}
+	.pro ul li:hover img {
+	transform: scale(1.3);
+	}
+	.pro ul li:hover .protxt {
+	background: #d80808;
+	}
+	.pro ul li:nth-child(4n) {
+	margin-right: 0;
+	}
+	</style>
 </head>
 <body>
 <div>
@@ -32,7 +88,7 @@
 			<a href="#mmenu" class="glyphicon glyphicon-list phone-nav"></a>
 		</section>
 		<div class="container clearfix">
-			<div class="logo pull-left"><a href="index.html"><img src="images/logo4.png" alt=""/></a></div>
+			<div class="logo pull-left"><a href="index.html"><img src="images/logo.png" alt=""/></a></div>
 			<nav class="nav pull-left">
 				<ul>
 					<li class="active"><a href="index.html">首页</a></li>
@@ -44,22 +100,22 @@
 						</ul>
 					</li>
 					<li><a href="pro.html">产品展示</a>
-						<!--<ul>-->
-							<!--<li><a href="pro.html">个人用户产品</a>-->
-								<!--<div class="three">-->
-									<!--<a href="pro.html">商用车润滑油</a>-->
-									<!--<a href="pro.html">乘用车润滑油</a>-->
-								<!--</div>-->
-							<!--</li>-->
-							<!--<li><a href="pro.html">商业客户产品</a>-->
-								<!--<div class="three">-->
-									<!--<a href="pro.html">水性切削液</a>-->
-									<!--<a href="pro.html">油性加工油</a>-->
-									<!--<a href="pro.html">轧制液</a>-->
-									<!--<a href="pro.html">清洗剂</a>-->
-								<!--</div>-->
-							<!--</li>-->
-						<!--</ul>-->
+						<ul>
+							<li><a href="pro.html">个人用户产品</a>
+								<div class="three">
+									<a href="pro.html">商用车润滑油</a>
+									<a href="pro.html">乘用车润滑油</a>
+								</div>
+							</li>
+							<li><a href="pro.html">商业客户产品</a>
+								<div class="three">
+									<a href="pro.html">水性切削液</a>
+									<a href="pro.html">油性加工油</a>
+									<a href="pro.html">轧制液</a>
+									<a href="pro.html">清洗剂</a>
+								</div>
+							</li>
+						</ul>
 					</li>
 					<!--<li><a href="job.html">人才招聘</a></li>-->
 					<li><a href="contact.html">联系我们</a>
@@ -74,61 +130,71 @@
 		</div>
 	</header>
 
-	<!--banner-->
 	<section class="banner">
-	    <img src="images/about_banner.jpg" alt="">
+		<img src="images/pro-banner.jpg" alt="">
 	</section>
-
-
 
 
 	<!--移动端  Mmenu-->
 	<nav id="mmenu">
-		<ul>
-			<li class="active"><a href="index.html">首页</a></li>
-			<li><a href="about.html">关于琛维</a>
-				<ul>
-					<li><a href="about.html">公司简介</a></li>
-					<li><a href="#">企业文化</a></li>
-					<li><a href="#">发展历程</a></li>
-				</ul>
-			</li>
-			<li><a href="pro.html">产品展示</a>
-				<!--<ul>-->
-					<!--<li><a href="pro.html">个人用户产品</a>-->
-						<!--<div class="three">-->
-							<!--<a href="pro.html">商用车润滑油</a>-->
-							<!--<a href="pro.html">乘用车润滑油</a>-->
-						<!--</div>-->
-					<!--</li>-->
-					<!--<li><a href="pro.html">商业客户产品</a>-->
-						<!--<div class="three">-->
-							<!--<a href="pro.html">水性切削液</a>-->
-							<!--<a href="pro.html">油性加工油</a>-->
-							<!--<a href="pro.html">轧制液</a>-->
-							<!--<a href="pro.html">清洗剂</a>-->
-						<!--</div>-->
-					<!--</li>-->
-				<!--</ul>-->
-			</li>
-			<!--<li><a href="job.html">人才招聘</a></li>-->
-			<li><a href="contact.html">联系我们</a>
-				<ul>
-					<li><a href="contact.html">联系方式</a></li>
-					<li><a href="message.html">在线留言</a></li>
-				</ul>
-			</li>
+		ul>
+		<li class="active"><a href="index.html">首页</a></li>
+		<li><a href="about.html">关于琛维</a>
+			<ul>
+				<li><a href="about.html">公司简介</a></li>
+				<li><a href="#">企业文化</a></li>
+				<li><a href="#">发展历程</a></li>
+			</ul>
+		</li>
+		<li><a href="pro.html">产品展示</a>
+			<ul>
+				<li><a href="pro.html">个人用户产品</a>
+					<div class="three">
+						<a href="pro.html">商用车润滑油</a>
+						<a href="pro.html">乘用车润滑油</a>
+					</div>
+				</li>
+				<li><a href="pro.html">商业客户产品</a>
+					<div class="three">
+						<a href="pro.html">水性切削液</a>
+						<a href="pro.html">油性加工油</a>
+						<a href="pro.html">轧制液</a>
+						<a href="pro.html">清洗剂</a>
+					</div>
+				</li>
+			</ul>
+		</li>
+		<!--<li><a href="job.html">人才招聘</a></li>-->
+		<li><a href="contact.html">联系我们</a>
+			<ul>
+				<li><a href="contact.html">联系方式</a></li>
+				<li><a href="message.html">在线留言</a></li>
+			</ul>
+		</li>
 		</ul>
 	</nav>
 </div>
+
+<!--副导航-->
 <!--副导航-->
 <div class="vicenav">
 	<div class="container2">
 		<div class="vicenavwrap">
-			<menu class="menu clearfix" id="menu">
-				<div><a class="cur" href="about.html">公司简介</a></div>
-				<div><a href="">企业文化</a></div>
-				<div><a href="">发展历程</a></div>
+			<menu class="menu clearfix twomenu" id="menu">
+				<div><a href="pro.html">个人用户产品</a>
+					<ul>
+						<li><a href="pro.html">水性切削液</a></li>
+						<li><a href="pro.html">油性加工油</a></li>
+					</ul>
+				</div>
+				<div><a class="cur" href="pro2.html">商业用户产品</a>
+					<ul>
+						<li><a href="pro.html">水性切削液</a></li>
+						<li><a href="pro.html">油性加工油</a></li>
+						<li><a href="pro.html">轧制液</a></li>
+						<li><a href="pro.html">清洗剂</a></li>
+					</ul>
+				</div>
 			</menu>
 		</div>
 	</div>
@@ -138,7 +204,7 @@
 <div class="mbx">
 	<div class="container2">
 		<div class="mbxwrap">
-			您当前的位置：<a href="index.html">首页</a> > <a href="about.html">关于琛维</a> > <em>公司简介</em>
+			您当前的位置：<a href="index.html">首页</a> > <a href="pro.html">产品展示</a> > <em>商业用户产品</em>
 		</div>
 	</div>
 </div>
@@ -146,37 +212,42 @@
 <!--内页内容区域-->
 <div class="nycontainer">
 	<div class="container2">
-		<div class="about">
-			<div class="nytit">
-				<h2>公司简介</h2>
-				<h3>美凯利克化工经营的品牌主要为镁凯利克品牌。镁凯利克化工创立于德国，专门从事优质化工产品的研发和创造。</h3>
-			</div>
-			<center>
-			<img class="aboutimg1" src="images/my-banner-05.png" alt="" />
-			</center>
-			<div class="abouttxt">
+		<div class="nytit">
+			<h2>商业用户产品</h2>
+			<h3>超凡的抗磨损性能，有效机械使用寿命</h3>
+		</div>
+		<div class="pro">
+			<ul class="clearfix">
+				<li>
+					<div class="pic">
+						<a href="pro-show.html">
+							<img class="vcenter" src="images/my-sypro2.png" alt="" />
+							<div class="probg"></div>
+						</a>
+					</div>
+					<div class="protxt">
+						<a href="pro-show.html">水性切削液</a>
+						<p>商用车专用</p>
+					</div>
+				</li>
+				<li>
+					<div class="pic">
+						<a href="pro-show-geren02.html">
+							<img class="vcenter" src="images/my-sypro3.png" alt="" />
+							<div class="probg"></div>
+						</a>
+					</div>
+					<div class="protxt">
+						<a href="pro-show.html">油性加工油</a>
+						<p>专为个人车打造</p>
+					</div>
+				</li>
+			</ul>
 
-				<h3>镁凯利克化工的产品</h3>
-				<p>镁凯利克化工产品已经涉及到金属加工、冲压成型、特种润滑油、防锈剂、设备用油等种类、是产业用特殊润滑油行业的领军。从军需武器到汽车产业、机械加工、模具制造、五金、电子、塑胶等配及钢铁产业。在广泛的产业领域里占据着重要位置。
-				</p>
-				<h3>
-					镁凯利克化工的目标
-				</h3>
-				<p>
-					通过提供一个有效平台，使员工们充分发挥自己的敬业精神和才能，不断创新，争取在核心业务领域做到更好。
-					放眼未来，长远发展，视革变为机遇，不断在国际市场上推陈出新。
-				</p>
-
-					<h3>镁凯利克化工的使命</h3>
-				<p>
-					提供卓越的产品与服务！以革新方案提高产品质量并满足客户需求，为员工提供有意义的工作与发展机遇并投资者得到良好的经济回报率。承担企业的社会责任，充分发挥企业的社会价值。
-				</p>
-			</div>
 		</div>
 	</div>
 </div>
-
-
+<br/>
 <!--底部开始-->
 <footer class="footer">
 	<div class="container clearfix">
@@ -227,10 +298,13 @@
 
 <!--slick-->
 <script src="js/slick.min.js" type="text/javascript" charset="utf-8"></script>
+
+
 <!--placeholder-->
 <script src="js/jquery.placeholder.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
 	$(function(){ $('input, textarea').placeholder(); });
 </script>
+
 </body>
 </html>

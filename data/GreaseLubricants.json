@@ -1,0 +1,91 @@
+{
+  "title": "镁凯利克润滑脂",
+  "title_en": "MP series Grease Lubricants",
+  "head": [
+    {
+      "headValue": "产品名称Product Name",
+      "split": true
+    },
+    {
+      "headValue": "NL GI 级别 NL GI Grade",
+      "split": true
+    },
+    {
+      "headValue": "滴点 Dropping Point(℃)",
+      "split": true
+    },
+    {
+      "headValue": "使用温度Applied Temperature(℃)",
+      "split": true
+    },
+    {
+      "headValue": "性能概述及应用 Description&Application",
+      "split": false
+    }
+  ],
+  "data": [
+    [
+      "SLC0 SLC1 SLC2 SLC3",
+      "0 1 2 3",
+      ">170 >180 >180 >180",
+      "-20-120 -20-120 -20-120 -20-120",
+      "SP系列无铅优质通用锂基润滑脂,专门制造具有突出的抗磨性能。良好的防锈性和耐水淋性,应用于重负荷及有冲击负荷的条件下。 Premium general purpose extreme pressure lithium greases, containing a lead free extreme pressure additive Formulated to provide extra protection against wear, rust and water washout Recommended for most types of industrial applications including heavy duty or shock loads"
+    ],
+    [
+      "LX-SLC0 LX-SLC1 LX-SLC2",
+      "0 1 2",
+      ">260 >260 >260",
+      "-30-170 -30-170 -30-170",
+      "LX-SP系列多效极压复合锂基润滑脂,具有突岀的极压抗磨性能、防锈、防腐蚀性能。优良的耐剪切稳定性,保证本品具有长期使用寿命,应用于车轮、电机轴承、重负荷轴承。 Multipurpose extreme pressure lithium complex greases Excellent EP properties and xcellent rust resistance andcorrosion protection. High shear stable product suitable for long-term lubrication. Recommended for wheel bearings, electric motors and heavy duty bearings"
+    ],
+    [
+      "WP",
+      "2",
+      ">280",
+      "-35-160",
+      "SR2多用途复合钙基防水润滑脂,具优异的抗氧化安定性、耐腐蚀性、耐水性,同时具优秀的耐负荷承载能力、良好的泵送性和密封性能。应用于在高温或潮湿有水环境下工作的机械 isto Multi-purpose calcium complex greases. Excellentprotection against oxidation and corrosion, good water resistance, excellentload carrying ability, good pumpability and sealing properties. Recommended for lubricating machinery and equipment operating under high thermalloads and I presence of moisture or water."
+    ],
+    [
+      "HS",
+      "2",
+      ">190",
+      "-30-120",
+      "HP2高质量合成锂基高速轴承润滑脂,应用于微型高速轴承,如机床告诉主轴轴承、空调器轴承及通讯设备轴承。 High quality synthetic lithium grease, Recmmended for small rolling bearing with high speed, E.g. spindle bearings of machine tools, air conditions and communication equipment。"
+    ],
+    [
+      "MOS2",
+      "2",
+      "",
+      "-30-230",
+      "MOs2优质高效高温润滑脂,以高粘度基础油为基础。含有固体润滑剂二硫化钼和其他极压添加剂的黑色锂基润滑脂,具有突出的抗极压耐磨性能。防锈和耐水性能。 Efficientblack lithiumgreases as the combination of high-viscosiy base oils, molybdenumdisulphide and other EP additives. Stronganti-wear properties, extrarustresistance and water washoutresistance Recommended forjoints, plain and roller bearings wording under severe conditions like high loads and/ortowspeeds。"
+    ],
+    [
+      "FEPT1 FET2 FEPT3",
+      "1 2 3",
+      "290",
+      "-30-280",
+      "FEPT系列产品以高稳定合成油为基油,含白色固体润滑剂,能抗多种化学物质侵蚀,热稳定高达280℃以上的极特殊润滑脂。 FEPTseries product is an e xtraordinary special grease based on a synthetic oil of high sthabilty and on white solid lubricants, Its resi stance against many aggressive chemicals and its thermal stability up tomore than+2806oase exceed known good properties of silicone grease and fluoro-silicone grease by far. KAT高温下的高速轴承、风机、电机、输送机、链条、食品工业离心轴承。 Special well- suited the lubrication of high-speed, high-temperature roller bearings and plan bearings, used in fans, electric motor, conveyor chains, centrifuge bearings in the food industry."
+    ],
+    [
+      "LTP0 LTP1 LTP2",
+      "0 1 2",
+      ">190 >190 >190",
+      "-60-120 -60-120 -60-120",
+      "LX系列多用途低温润滑脂,具有卓越的低温流动性能、抗水性能及极佳的抗磨、防锈和抗氧化性能。具优秀的泵送性能,主要应用于集中润滑系统。 High quality multipurpose lithium- soap grease, Outsanding cold flowing properties, good resistance to water washout. extra protection against wear, rust and corrosion. LX displays good pumpability in centralized systems。"
+    ],
+    [
+      "防卡咬膏",
+      "",
+      "",
+      "-60-1200",
+      "防卡咬膏是一种高性能、不易洗掉和烧毁的保护涂层,可确保金属零件具有极好的防热、防卡咬、防锈、防腐蚀、防水、防酸等性能。本产品可在高达1200℃的温度下发挥润滑和防止烧结卡死作用。Anti- Seize compound is a high quality protected lubricant, Excellent against high temperature anti-seize and rust and corrosion,working temperature almost high to 1200℃"
+    ],
+    [
+      "HTC（高温链条油）",
+      "",
+      "",
+      "-30-260",
+      "DDF高温合成传动链条润滑剂,具有极好的防腐蚀性能及优良的温度稳定性 DDF High temperature synthetic lubricant with high corrosion protection properties and outstanding temperature stability特别适合用于所有类型的传动链、输送系统和轴承,例如,化工行业、汽车工业、机械工具行业、木材加工业、塑胶业、包装线和纺织行业等。 Especially suitable for high temperature application and is used for all types of chains and conveyor systems and bearings, e. g. the chemical, automotive, mechanism tool, woodworking, plastic coating, packaging and textile industry."
+    ]
+  ]
+}

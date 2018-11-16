@@ -467,7 +467,8 @@ img {
 /*底部开始*/
 .footer {
   background: #292929;
-  padding-top: 45px;
+  /*padding-top: 45px;*/
+  padding-top: 5px;
 }
 .footerleft h3 {
   font-size: 32px;
